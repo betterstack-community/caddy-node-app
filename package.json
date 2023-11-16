@@ -1,0 +1,9 @@
+{
+  "name": "example",
+  "scripts": {
+    "start": "npm install && node index.js"
+  },
+  "dependencies": {
+    "lorem-ipsum": "^2.0.8"
+  }
+}
